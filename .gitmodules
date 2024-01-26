@@ -7,3 +7,6 @@
 [submodule ".gnupg"]
 	path = .gnupg
 	url = github.com:kalrish/GnuPG-conf.git
+[submodule ".ssh"]
+	path = .ssh
+	url = github.com:kalrish/ssh_config.git
