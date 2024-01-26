@@ -4,3 +4,6 @@
 [submodule ".config"]
 	path = .config
 	url = github.com:kalrish/dotfiles.git
+[submodule ".gnupg"]
+	path = .gnupg
+	url = github.com:kalrish/GnuPG-conf.git
